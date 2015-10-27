@@ -1,0 +1,16 @@
+h1 {
+    margin-bottom: 0px;
+}
+
+.caption {
+    margin-top: 0px;
+}
+
+h1,
+.caption {
+    text-align: right;
+}
+
+.title {
+	padding-right: 30px
+}
